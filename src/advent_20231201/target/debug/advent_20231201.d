@@ -1,0 +1,1 @@
+/home/lestrade/devPerso/adventOfCode/src/advent_20231201/target/debug/advent_20231201: /home/lestrade/devPerso/adventOfCode/src/advent_20231201/input.txt /home/lestrade/devPerso/adventOfCode/src/advent_20231201/main.rs
