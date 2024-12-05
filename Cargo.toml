@@ -3,5 +3,8 @@
 resolver = "2"
 
 members = [
-    "src/advent_20231201"
+    "src/advent_20231201",
+    "src/advent_20231202",
+    "src/advent_20231203",
+    "src/advent_20241201",
 ]
